@@ -1,2 +1,3 @@
 (a) Pros are being able to breakdown project into stages and having constant collaboration with customers. The cons are having difficulty with budgeting/timelines, as well as no definitive end because of the ongoing iterative process....
 (b) The role/responsibilities of the scrum master includes doing all the JIRA tooling and facilitating sprints and meetings. For the product owner, they set the direction for the team as well as they handle the releases and stakeholder managements.
+(c) Sprint planning meeting: what to complete in the sprint, make story points, Standup Meeting: short meeting for sprints, members discuss work completed, Sprint Retrospective Meeting: move incomplete work to backlog, close sprint
